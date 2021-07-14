@@ -1,0 +1,12 @@
+{
+  "name": "Projeto-JavaScript-HC",
+  "version": "1.0.0",
+  "description": "Projeto realizado seguindo o passo a passo ensinado pela instrutora **Simara Conceição** no programa **Hiring Coders** da **Gama Academy**.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
