@@ -4,3 +4,9 @@ Projeto realizado seguindo o passo a passo ensinado pela instrutora **Simara Con
 
 ## Arquivo database.js
 
+Este arquivo recebe uma variável constante do tipo **_array_**, contendo objetos para simular um arquivo .json.
+
+## Arquivo app.js
+
+Arquivo que contém o código-fonte com as funcionalidades da aplicação.
+
